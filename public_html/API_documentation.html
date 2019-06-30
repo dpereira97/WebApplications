@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+  <style>
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	}
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  #myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+   td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+  }
+ 
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
+  </style>
+  </head>
+  <img src="logo.png" alt="Diseases search aw003" width="301" height="177">   <h1 id="myHeader">API Online Documentation</h1>
+
+  <body>
+
+  <h4>URIs relative to http://appserver.alunos.di.fc.ul.pt/~aw003/rest/</h4>
+
+  <table >
+    <tr>
+      <th>Method</th>
+      <th>HTTP request</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>articlesOrder</td>
+      <td>GET /articlesOrder</td>
+      <td>Get the top-n related articles for a given disease.</td>
+    </tr>
+        <tr>
+      <td>articlesInfo</td>
+      <td>GET /articlesInfo</td>
+      <td>Get the top-n related links and titles for a given disease.</td>
+    </tr>    <tr>
+      <td>articlesAbstracts</td>
+      <td>GET /articlesAbstracts</td>
+      <td>Get the top-n related abstracts for a given disease.</td>
+    </tr>
+    <tr>
+      <td>relatedDiseases</td>
+      <td>GET /relatedDiseases</td>
+      <td>Get the top-n related diseases for a given disease.</td>
+    </tr>
+    <tr>
+      <td>tweets</td>
+      <td>GET /tweets</td>
+      <td>Get the top-n most recent tweets for a given disease.</td>
+    </tr>
+    <tr>
+      <td>photos</td>
+      <td>GET /photos</td>
+      <td>Get the top-n most recent photos for a given disease.</td>
+    </tr>
+    <tr>
+      <td>metadata</td>
+      <td>GET /metadata</td>
+      <td>Get metadata for a given disease.</td>
+    </tr>
+    <tr>
+      <td>diseases</td>
+      <td>GET /diseases</td>
+      <td>Get the list of diseases whose label match a given prefix.</td>
+    </tr>
+   <tr>
+      <td>articlesMER</td>
+      <td>GET /articlesMER</td>
+      <td>Get the diseases mentioned in a given article and where in the text they are mentioned.</td>
+    </tr>
+   <tr>
+      <td>articleFeedbackPos</td>
+      <td>POST /articleFeedbackPos</td>
+      <td>Update the explicit positive feedback of the relevance of an article for a given disease.</td>
+    </tr>
+   <tr>
+      <td>articleFeedbackNeg</td>
+      <td>GET /articleFeedbackNeg</td>
+      <td>Update the explicit negative feedback of the relevance of an article for a given disease.</td>
+    </tr>
+</table>
+
+
+<p><a href="API_examples.html">Examples</a></p>
+
+
+  </body>
+  </html>

@@ -1,0 +1,67 @@
+31105689	123	132	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	240	249	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	441	450	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	538	547	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	995	1004	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	1174	1183	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	1336	1345	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	1777	1786	influenza	http://purl.obolibrary.org/obo/doid_934
+31105689	1787	1802	virus infection	http://purl.obolibrary.org/obo/doid_0050117
+
+31104602	887	894	disease	http://purl.obolibrary.org/obo/doid_4
+31104602	1601	1608	disease	http://purl.obolibrary.org/obo/doid_4
+31104602	1757	1764	disease	http://purl.obolibrary.org/obo/doid_4
+31104602	94	105	lassa fever	http://purl.obolibrary.org/obo/doid_9537
+31104602	1077	1088	lassa fever	http://purl.obolibrary.org/obo/doid_9537
+31104602	1590	1608	infectious disease	http://purl.obolibrary.org/obo/doid_0050117
+31104602	1746	1764	infectious disease	http://purl.obolibrary.org/obo/doid_0050117
+
+31104021	40	47	disease	http://purl.obolibrary.org/obo/doid_4
+31104021	102	109	disease	http://purl.obolibrary.org/obo/doid_4
+31104021	142	150	dementia	http://purl.obolibrary.org/obo/doid_1307
+31104021	184	191	disease	http://purl.obolibrary.org/obo/doid_4
+31104021	465	472	disease	http://purl.obolibrary.org/obo/doid_4
+
+31103803	36	45	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	525	533	syndrome	http://purl.obolibrary.org/obo/doid_225
+31103803	535	539	ards	http://purl.obolibrary.org/obo/doid_11394
+31103803	780	789	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	814	823	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	836	845	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	982	991	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	1035	1039	ards	http://purl.obolibrary.org/obo/doid_11394
+31103803	1277	1286	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	1573	1582	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	1608	1612	ards	http://purl.obolibrary.org/obo/doid_11394
+31103803	1814	1818	ards	http://purl.obolibrary.org/obo/doid_11394
+31103803	1861	1870	influenza	http://purl.obolibrary.org/obo/doid_934
+31103803	249	264	viral infection	http://purl.obolibrary.org/obo/doid_0050117
+
+31102651	429	436	disease	http://purl.obolibrary.org/obo/doid_4
+31102651	468	475	disease	http://purl.obolibrary.org/obo/doid_4
+
+31101532	56	63	obesity	http://purl.obolibrary.org/obo/doid_9970
+31101532	134	141	obesity	http://purl.obolibrary.org/obo/doid_9970
+
+31101241	150	157	disease	http://purl.obolibrary.org/obo/doid_4
+31101241	1334	1341	disease	http://purl.obolibrary.org/obo/doid_4
+
+31097871	56	64	diarrhea	http://purl.obolibrary.org/obo/doid_13250
+31097871	148	156	diarrhea	http://purl.obolibrary.org/obo/doid_13250
+31097871	552	560	diarrhea	http://purl.obolibrary.org/obo/doid_13250
+
+31096052	89	98	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31096052	126	135	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	255	264	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31096052	312	321	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	625	634	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	668	677	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31096052	893	902	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	1256	1265	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	1411	1420	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	1602	1611	influenza	http://purl.obolibrary.org/obo/doid_934
+31096052	76	98	pneumococcal pneumonia	http://purl.obolibrary.org/obo/doid_10531
+31096052	242	264	pneumococcal pneumonia	http://purl.obolibrary.org/obo/doid_10531
+31096052	655	677	pneumococcal pneumonia	http://purl.obolibrary.org/obo/doid_10531
+
+

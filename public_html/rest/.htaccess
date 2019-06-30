@@ -1,0 +1,23 @@
+# Turn rewrite engine on
+Options +FollowSymlinks
+RewriteEngine on
+
+# map neat URL to internal URL
+
+RewriteRule ^diseases/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=names [nc,qsa,p]
+RewriteRule ^articlesInfo/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=info&disease=$1 [nc,qsa,p]
+RewriteRule ^articlesMER/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=mer&disease=$1 [nc,qsa,p]
+RewriteRule ^articlesOrder/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=topn&disease=$1 [nc,qsa,p]
+RewriteRule ^articlesAbstracts/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=abs&disease=$1 [nc,qsa,p]
+RewriteRule ^tweets/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=tweets&disease=$1 [nc,qsa,p]
+RewriteRule ^photos/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=photos&disease=$1 [nc,qsa,p]
+RewriteRule ^metadata/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=metadata&disease=$1 [nc,qsa,p]
+RewriteRule ^relatedDiseases/([A-Za-z]+)/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=reldise&disease=$1 [nc,qsa,p]
+RewriteRule ^articleFeedBackPos/([A-Za-z]+)/([0-9]+)/$  http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=feedbackpos&disease=$1&id=$2 [nc,qsa,p]
+RewriteRule ^articleFeedBackNeg/([A-Za-z]+)/([0-9]+)/$  http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=feedbackneg&disease=$1&id=$2 [nc,qsa,p]
+
+ErrorDocument 400 "<H1>Ooops - Bad request!</H1>"
+ErrorDocument 401 "<H1>Speak friend and enter</H1>"
+ErrorDocument 403 "<H1>Strictly fabidden..</H1>"
+ErrorDocument 404 "<H1>Method not valid..</H1>"
+ErrorDocument 500 "<H1>Server gone wild..</H1>"

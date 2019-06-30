@@ -1,0 +1,7 @@
+# Turn rewrite engine on
+Options +FollowSymlinks
+RewriteEngine on
+
+# map neat URL to internal URL
+RewriteRule ^article/$   http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=all [nc,qsa,p]
+RewriteRule ^article/([0-9]+)/$  http://appserver.alunos.di.fc.ul.pt/~aw003/rest/RestController.php?view=single&id=$1 [nc,qsa,p]

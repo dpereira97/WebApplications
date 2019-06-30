@@ -1,0 +1,68 @@
+31107966	44	54	bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	88	95	disease	http://purl.obolibrary.org/obo/doid_4
+31107966	122	132	bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	166	173	disease	http://purl.obolibrary.org/obo/doid_4
+31107966	175	179	copd	http://purl.obolibrary.org/obo/doid_3083
+31107966	655	659	copd	http://purl.obolibrary.org/obo/doid_3083
+31107966	806	816	bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	1317	1327	bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	1331	1335	copd	http://purl.obolibrary.org/obo/doid_3083
+31107966	1372	1378	asthma	http://purl.obolibrary.org/obo/doid_2841
+31107966	2987	2991	copd	http://purl.obolibrary.org/obo/doid_3083
+31107966	4653	4663	bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	4667	4671	copd	http://purl.obolibrary.org/obo/doid_3083
+31107966	36	54	chronic bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	114	132	chronic bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	798	816	chronic bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	1309	1327	chronic bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	4645	4663	chronic bronchitis	http://purl.obolibrary.org/obo/doid_6132
+31107966	58	95	chronic obstructive pulmonary disease	http://purl.obolibrary.org/obo/doid_3083
+31107966	136	173	chronic obstructive pulmonary disease	http://purl.obolibrary.org/obo/doid_3083
+
+31107755	281	289	lymphoma	http://purl.obolibrary.org/obo/doid_0060058
+31107755	555	563	lymphoma	http://purl.obolibrary.org/obo/doid_0060058
+31107755	736	744	lymphoma	http://purl.obolibrary.org/obo/doid_0060058
+31107755	107	122	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+
+31107753	30	37	disease	http://purl.obolibrary.org/obo/doid_4
+31107753	587	594	disease	http://purl.obolibrary.org/obo/doid_4
+31107753	706	713	disease	http://purl.obolibrary.org/obo/doid_4
+31107753	11	37	extramammary paget disease	http://purl.obolibrary.org/obo/doid_2099
+31107753	687	713	extramammary paget disease	http://purl.obolibrary.org/obo/doid_2099
+
+31107611	343	358	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31107611	572	587	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+
+31107204	932	947	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+
+31107040	1679	1686	disease	http://purl.obolibrary.org/obo/doid_4
+31107040	38	53	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31107040	145	160	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31107040	472	487	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31107040	561	576	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31107040	1314	1329	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31107040	1738	1753	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+
+31106941	503	509	cancer	http://purl.obolibrary.org/obo/doid_162
+31106941	525	536	peritonitis	http://purl.obolibrary.org/obo/doid_8283
+31106941	495	509	ovarian cancer	http://purl.obolibrary.org/obo/doid_162
+31106941	513	536	tuberculous peritonitis	http://purl.obolibrary.org/obo/doid_9801
+
+31106528	338	345	disease	http://purl.obolibrary.org/obo/doid_4
+31106528	0	15	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31106528	45	60	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31106528	170	185	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+
+31106078	116	123	disease	http://purl.obolibrary.org/obo/doid_4
+31106078	186	193	disease	http://purl.obolibrary.org/obo/doid_4
+31106078	457	464	disease	http://purl.obolibrary.org/obo/doid_4
+31106078	671	678	disease	http://purl.obolibrary.org/obo/doid_4
+31106078	909	916	disease	http://purl.obolibrary.org/obo/doid_4
+31106078	108	123	hydatid disease	http://purl.obolibrary.org/obo/doid_1496
+31106078	178	193	hydatid disease	http://purl.obolibrary.org/obo/doid_1496
+31106078	663	678	hydatid disease	http://purl.obolibrary.org/obo/doid_1496
+31106078	901	916	hydatid disease	http://purl.obolibrary.org/obo/doid_1496
+
+31105667	100	115	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+31105667	200	215	cystic fibrosis	http://purl.obolibrary.org/obo/doid_1485
+

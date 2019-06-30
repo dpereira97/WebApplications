@@ -1,0 +1,60 @@
+31107879	263	272	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107879	1361	1365	gerd	http://purl.obolibrary.org/obo/doid_8534
+
+31107798	483	492	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107798	472	492	aspiration pneumonia	http://purl.obolibrary.org/obo/doid_0050152
+
+31107533	80	89	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107533	231	240	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107533	333	342	pneumonia	http://purl.obolibrary.org/obo/doid_552
+
+31107422	32	39	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	229	236	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	364	371	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	449	456	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	692	699	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	800	807	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	1420	1429	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107422	1434	1444	meningitis	http://purl.obolibrary.org/obo/doid_9471
+31107422	1497	1504	disease	http://purl.obolibrary.org/obo/doid_4
+31107422	1731	1741	meningitis	http://purl.obolibrary.org/obo/doid_9471
+
+31107351	195	204	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	378	387	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	582	591	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	745	754	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	1179	1188	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	1469	1478	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	1479	1488	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	1568	1577	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	1709	1718	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	2072	2081	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	2191	2200	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107351	125	144	respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	913	932	respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	1114	1133	respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	2105	2124	respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	119	144	acute respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	907	932	acute respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	1108	1133	acute respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+31107351	2099	2124	acute respiratory failure	http://purl.obolibrary.org/obo/doid_11162
+
+31107274	141	150	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107274	1069	1078	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107274	131	150	bacterial pneumonia	http://purl.obolibrary.org/obo/doid_874
+
+31107250	36	45	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107250	90	99	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107250	23	45	pneumocystis pneumonia	http://purl.obolibrary.org/obo/doid_11339
+31107250	77	99	pneumocystis pneumonia	http://purl.obolibrary.org/obo/doid_11339
+
+31107230	141	150	pneumonia	http://purl.obolibrary.org/obo/doid_552
+
+31107214	39	46	disease	http://purl.obolibrary.org/obo/doid_4
+31107214	115	122	disease	http://purl.obolibrary.org/obo/doid_4
+31107214	191	200	pneumonia	http://purl.obolibrary.org/obo/doid_552
+31107214	240	250	legionella	http://purl.obolibrary.org/obo/doid_10457
+31107214	296	306	legionella	http://purl.obolibrary.org/obo/doid_10457
+31107214	394	401	disease	http://purl.obolibrary.org/obo/doid_4
+
+
