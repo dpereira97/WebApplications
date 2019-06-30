@@ -1,0 +1,1 @@
+curl "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=$1&retmode=text&rettype=xml" | xmllint --xpath '//AbstractText/text()' - 

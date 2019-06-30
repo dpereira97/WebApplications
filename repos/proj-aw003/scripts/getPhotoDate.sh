@@ -1,0 +1,1 @@
+curl "https://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key=$1&photo_id=$2&secret=$3" | xmllint --xpath '//dates/@posted' -

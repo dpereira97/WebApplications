@@ -1,0 +1,1 @@
+xmllint --xpath '/PubmedArticleSet/PubmedArticle/MedlineCitation/Article/ArticleDate/Day/text()' $1 >> $2

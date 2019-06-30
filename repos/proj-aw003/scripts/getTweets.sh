@@ -1,0 +1,1 @@
+twurl "/1.1/search/tweets.json?lang=en&src=typd&f=tweets&vertical=default&q=$1&tweet_mode=extended"
